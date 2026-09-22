@@ -238,4 +238,4 @@ This repository serves as the official landing page for TMPGEnc Xpress. The soft
 **Get the most recent version of TMPGEnc Xpress today!**
 
 ---
-**Last updated:** 2026-09-22 09:08:04 UTC
+**Last updated:** 2026-09-22 14:25:55 UTC
